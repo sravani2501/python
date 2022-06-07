@@ -1,1 +1,3 @@
 # python
+Starting python practice....
+Day 1 - 
